@@ -8,6 +8,13 @@ Welcome to the official GitHub organization of the **Lei Justan Zhang Lab** at t
 
 Our lab focuses on **geroscience-guided drug discovery**, aiming to develop **gerotherapeutics**—drugs that target the biological mechanisms of aging to treat multiple age-related diseases and extend healthy lifespan. ([Lei Justan Zhang Lab][1])
 
+<div id="header" align="center">
+  <img src="Geroscience Drug Discovery.png" width="700"/>
+</div>
+
+
+
+
 ---
 
 ## 🧠 Our Mission
